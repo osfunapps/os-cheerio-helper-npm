@@ -65,10 +65,8 @@ Will wait for an element to change it's value (div with a "popup" class to chang
 
     await ch.waitForSelectorToChangeAttValue(page, selector="div.popup", att="style", val="display: none;", checkEach=2000)
 
-Will loop on a <select> element children (<option> tags) and look for a given text.
-
-Optionally: if the text exists, will select it.
-
+Will loop on a <select> element children (<option> tags) and look for a given text.  
+Optionally: if the text exists, will select it.  
 NOTICE: if you want to select the option, you need to supply a puppeteer helper instance, a page instance, and toggle the selectIfExists to true
 
     let selected = await ch.isSelectHasValue(selectElement, "black", true, ph, page);
@@ -85,5 +83,4 @@ And a lot more!
 ISC
 
 
-# os-cheerio-helper-npm
 # os-cheerio-helper-npm
