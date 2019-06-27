@@ -11,7 +11,7 @@ Else you want to analyze a DOM of a website more thoroughly, this is the library
 
 ## Installation and use
 
-The cheerio helper works in hand with [os-puppeteer](https://www.npmjs.com/package/os-puppeteer-helper). So you'll need to npm i it too. 
+The cheerio helper works in hand with [os-puppeteer](https://github.com/osfunapps/os-puppeteer-helper-npm). So you'll need to npm i it too. 
 
 Install via npm:
     npm i os-puppeteer-helper
