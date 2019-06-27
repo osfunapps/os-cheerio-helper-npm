@@ -74,7 +74,7 @@ NOTICE: if you want to select the option, you need to supply a puppeteer helper 
 And a lot more!
 
 ## Links
-[npm os-puppeteer-helper](https://www.npmjs.com/package/os-puppeteer-helper)
+[npm os-puppeteer-helper](https://www.npmjs.com/package/os-puppeteer-helper)\
 [npm os-cheerio-helper](https://www.npmjs.com/package/os-cheerio-helper)
 
 ## Licence

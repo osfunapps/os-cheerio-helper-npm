@@ -1,8 +1,12 @@
 {
   "name": "os-cheerio-helper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "an intuitive module to help with cheerio web scraping related functions",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/osfunapps/os-cheerio-helper-npm"
+  },
   "dependencies": {
     "os-tools": "1.0.2",
     "cheerio": "^1.0.0-rc.3"
