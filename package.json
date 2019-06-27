@@ -1,0 +1,20 @@
+{
+  "name": "os-cheerio-helper",
+  "version": "1.0.1",
+  "description": "an intuitive module to help with cheerio web scraping related functions",
+  "main": "index.js",
+  "dependencies": {
+    "os-tools": "1.0.2",
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "keywords": [
+    "Cheerio",
+    "web_scrape",
+    "npm",
+    "node",
+    "js",
+    "helper"
+  ],
+  "author": "osfunapps",
+  "license": "ISC"
+}
