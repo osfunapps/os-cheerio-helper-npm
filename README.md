@@ -83,7 +83,4 @@ And a lot more!
 
 ## Licence
 ISC
-
-
-# os-cheerio-helper-npm
 # os-cheerio-helper-npm
